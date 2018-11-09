@@ -2,3 +2,6 @@ pizza
 chocolate
 soda
 chocolate soda
+latte
+cinnamon roll
+cookie
